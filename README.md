@@ -22,9 +22,6 @@
     </a>
   </p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Jethva-Parthiv&label=Profile%20Views&color=3776AB&style=flat-square" alt="Profile Views" />
-  </p>
 </div>
 
 ---
@@ -135,8 +132,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jethva-Parthiv&show_icons=true&theme=radical&hide_border=true" alt="Jethva Parthiv's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jethva-Parthiv&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Jethva-Parthiv&show_icons=true&theme=radical&hide_border=true" alt="Jethva Parthiv's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Jethva-Parthiv&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
 </div>
 
 <br>
