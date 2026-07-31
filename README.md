@@ -113,9 +113,9 @@
 |---------|-------------|------------|
 | **[OpsPilot](https://github.com/Jethva-Parthiv/OpsPilot)** | Autonomous RevOps AI Agent Platform integrating Salesforce, Slack, Notion, and RAG. Features Human-in-the-Loop approvals and telemetry. | Python, LangGraph, FastAPI, React, ChromaDB, Slack SDK |
 | **[RAGVerse AI](https://github.com/Jethva-Parthiv/RAGVerse_AI)** | End-to-End modular RAG system enabling multi-turn conversations with persistent memory in PostgreSQL and RAGAS evaluation. | Python, LangChain, LangGraph, Gemini, PostgreSQL |
-| **[ResearchFlow](https://github.com/Jethva-Parthiv/ResearchFlow)** | Autonomous deep research agent with iterative self-correction loops and concurrent claim-level fact verification. | Python, LangGraph, Gemini, Streamlit, LangSmith |
-| **[EventScout AI](https://github.com/Jethva-Parthiv/ai-event-scout)** | Autonomous multi-agent discovery system to find, validate, deduplicate, and rank AI events from the web. | Python, LangGraph, FastAPI, Streamlit, Gemini API |
-| **[Dynamic Filter System](https://github.com/Jethva-Parthiv/dynamic-filter-system)** | Production-ready FastAPI backend for enterprise datasets supporting dynamic filtering, pagination, and multi-attribute queries. | FastAPI, PostgreSQL, JavaScript, REST APIs |
+| **[ResearchFlow](https://github.com/Jethva-Parthiv/research-assistant-agent)** | Autonomous deep research agent with iterative self-correction loops and concurrent claim-level fact verification. | Python, LangGraph, Gemini, Streamlit, LangSmith |
+| **[EventScout AI](https://github.com/Jethva-Parthiv/EventScout_AI)** | Autonomous multi-agent discovery system to find, validate, deduplicate, and rank AI events from the web. | Python, LangGraph, FastAPI, Streamlit, Gemini API |
+| **[Dynamic Filter System](https://github.com/Jethva-Parthiv/Dynamic_Filter_System)** | Production-ready FastAPI backend for enterprise datasets supporting dynamic filtering, pagination, and multi-attribute queries. | FastAPI, PostgreSQL, JavaScript, REST APIs |
 
 ---
 
